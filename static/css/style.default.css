@@ -2814,11 +2814,6 @@ fieldset[disabled] .btn-template-primary.active {
     border-radius: 0px;
   }
 }
-@media (min-width: 768px) {
-  .navbar-header {
-    float: left;
-  }
-}
 .navbar-collapse {
   overflow-x: visible;
   padding-right: 15px;
