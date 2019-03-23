@@ -68,3 +68,14 @@
   -moz-transform: translate3d(0,0,0);
   -ms-transform: translate3d(0,0,0);
 }
+
+.owl-carousel-title {
+  background-color: rgba(0,0,0,0.3);
+  color: #fff;
+  font-size: 20pt;
+  left: 7%;
+  max-width: 200px;
+  padding: 1rem 1.5rem;  
+  position: absolute;
+  top: 45%;
+}
