@@ -23,4 +23,13 @@
     display: inherit;
     width: 100px;
   }
+
+  .navbar-collapse {
+    text-align: center;
+  }
+
+  .navbar-nav {
+    display: inline-block;
+    float: none !important;
+  }
 }
