@@ -8,3 +8,19 @@
 .box-simple {
   min-height: 230px;
 }
+
+@media (min-width: 768px) {
+  .navbar-header {
+    float: none;
+    text-align: center;
+  }
+
+  .navbar-brand {
+    float: none;
+  }
+
+  .navbar-brand > img {
+    display: inherit;
+    width: 100px;
+  }
+}
